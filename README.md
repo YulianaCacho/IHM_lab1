@@ -1,3 +1,3 @@
 # IHM_lab1
 
-Nombre: YuliANA
+Nombre: Yuliana Cacho
